@@ -72,7 +72,7 @@ const EditionList: EditionItem[] = [
                 development, especially in the pre-Silicon stage.
             </Translate>
         ),
-        downloadLink: '//releases.openruyi.cn/creek/2026.03/rva23/',
+        downloadLink: '//docs/guide/how-to-install/zero',
     },
 ];
 
